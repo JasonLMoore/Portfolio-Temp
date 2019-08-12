@@ -89,11 +89,9 @@ footer {
   background: #666666;
   border-top: 8px solid #4aaaa5;
   height: 50px;
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  z-index: 100;
 }
 
 label,
@@ -123,4 +121,9 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
+}
+
+#jmPic {
+  height: 350px;
+  width: 200px;
 }
